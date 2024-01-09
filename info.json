@@ -1,5 +1,216 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "gNBDJNHeZmo",
+            "name": "Igor Stravinsky - Les Noces (1923) [gNBDJNHeZmo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Igor Stravinsky - Les Noces (1923) [gNBDJNHeZmo].mp4",
+            "size": 88.426272,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Igor Stravinsky - Les Noces (1923) [gNBDJNHeZmo].mp4"
+        },
+        {
+            "id": "43hTa4QYnvw",
+            "name": "Karol Kurpi\u0144ski - Dwie chatki - Ouverture [43hTa4QYnvw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Karol Kurpi\u0144ski - Dwie chatki - Ouverture [43hTa4QYnvw].mp4",
+            "size": 66.51711999999999,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Karol Kurpi\u0144ski - Dwie chatki - Ouverture [43hTa4QYnvw].mp4"
+        },
+        {
+            "id": "VfUSbLUiBj4",
+            "name": "Jo\u00e3o Gilberto - M\u00e9xico   1970 - Full Album [VfUSbLUiBj4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Jo\u00e3o Gilberto - M\u00e9xico   1970 - Full Album [VfUSbLUiBj4].mp4",
+            "size": 40.345335,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Jo\u00e3o Gilberto - M\u00e9xico   1970 - Full Album [VfUSbLUiBj4].mp4"
+        },
+        {
+            "id": "6SSkZRnQaX8",
+            "name": "Fela Kuti - Cross Examination (Egypt 80 Version) [6SSkZRnQaX8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Fela Kuti - Cross Examination (Egypt 80 Version) [6SSkZRnQaX8].mp4",
+            "size": 16.476809,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Fela Kuti - Cross Examination (Egypt 80 Version) [6SSkZRnQaX8].mp4"
+        },
+        {
+            "id": "qlFT1QGgu6Q",
+            "name": "Martha Argerich - Ravel - Scarbo [qlFT1QGgu6Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Martha Argerich - Ravel - Scarbo [qlFT1QGgu6Q].mp4",
+            "size": 23.110052,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Martha Argerich - Ravel - Scarbo [qlFT1QGgu6Q].mp4"
+        },
+        {
+            "id": "GGoca5m-loY",
+            "name": "Baden Powell 1970 Germany = Manh\u00e3 de carnaval =  rare! [GGoca5m-loY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Baden Powell 1970 Germany = Manh\u00e3 de carnaval =  rare! [GGoca5m-loY].mp4",
+            "size": 18.23995,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Baden Powell 1970 Germany = Manh\u00e3 de carnaval =  rare! [GGoca5m-loY].mp4"
+        },
+        {
+            "id": "0zWRjgathjA",
+            "name": "Fela Kuti - Let's Start [0zWRjgathjA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Fela Kuti - Let's Start [0zWRjgathjA].mp4",
+            "size": 10.792831999999999,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Fela Kuti - Let's Start [0zWRjgathjA].mp4"
+        },
+        {
+            "id": "sSeJtcJ-uOA",
+            "name": "Maurice Ravel - Sur l'herbe [With score] [sSeJtcJ-uOA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Maurice Ravel - Sur l'herbe [With score] [sSeJtcJ-uOA].mp4",
+            "size": 3.223926,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Maurice Ravel - Sur l'herbe [With score] [sSeJtcJ-uOA].mp4"
+        },
+        {
+            "id": "lNT7yP8mPZE",
+            "name": "Bernarda de Utrera - Bulerias [lNT7yP8mPZE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Bernarda de Utrera - Bulerias [lNT7yP8mPZE].mp4",
+            "size": 17.631577999999998,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Bernarda de Utrera - Bulerias [lNT7yP8mPZE].mp4"
+        },
+        {
+            "id": "7aISraOVnv8",
+            "name": "Q Lazzarus - Goodbye Horses (Long Version, w-Lyrics)_Full-HD [7aISraOVnv8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Q Lazzarus - Goodbye Horses (Long Version, w-Lyrics)_Full-HD [7aISraOVnv8].mp4",
+            "size": 16.037897,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Q Lazzarus - Goodbye Horses (Long Version, w-Lyrics)_Full-HD [7aISraOVnv8].mp4"
+        },
+        {
+            "id": "nTcecN-jjzo",
+            "name": "Enrique Rodr\u00edguez - Armando Moreno - Tangos, valses y milongas - CD Completo [nTcecN-jjzo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Enrique Rodr\u00edguez - Armando Moreno - Tangos, valses y milongas - CD Completo [nTcecN-jjzo].mp4",
+            "size": 93.38100899999999,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Enrique Rodr\u00edguez - Armando Moreno - Tangos, valses y milongas - CD Completo [nTcecN-jjzo].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Carl Czerny - Variations on Bellini's La Sonnambula Op.333, no.2. Vivien Harvey Slater, piano [1CGUa6-Ltks] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Carl Czerny - Variations on Bellini's La Sonnambula Op.333, no.2. Vivien Harvey Slater, piano [1CGUa6-Ltks] - copy (1).mp4",
+            "size": 59.439761,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Carl Czerny - Variations on Bellini's La Sonnambula Op.333, no.2. Vivien Harvey Slater, piano [1CGUa6-Ltks] - copy (1).mp4"
+        },
+        {
+            "id": "1O4-RCjwal0",
+            "name": "Intermezzo - Manuel Maria Ponce [1O4-RCjwal0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Intermezzo - Manuel Maria Ponce [1O4-RCjwal0].mp4",
+            "size": 3.756805,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Intermezzo - Manuel Maria Ponce [1O4-RCjwal0].mp4"
+        },
+        {
+            "id": "1O4-RCjwal0",
+            "name": "Intermezzo - Manuel Maria Ponce-1O4-RCjwal0.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Intermezzo - Manuel Maria Ponce-1O4-RCjwal0.mp4",
+            "size": 3.756805,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Intermezzo - Manuel Maria Ponce-1O4-RCjwal0.mp4"
+        },
+        {
+            "id": "dH3GSrCmzC8",
+            "name": "Bill Evans - Waltz For Debby [dH3GSrCmzC8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Bill Evans - Waltz For Debby [dH3GSrCmzC8].mp4",
+            "size": 12.177318,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Bill Evans - Waltz For Debby [dH3GSrCmzC8].mp4"
+        },
+        {
+            "id": "HeTtPLxTARk",
+            "name": "Veronique - Jungle Man (Italo-Disco) [HeTtPLxTARk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Veronique - Jungle Man (Italo-Disco) [HeTtPLxTARk].mp4",
+            "size": 11.58831,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Veronique - Jungle Man (Italo-Disco) [HeTtPLxTARk].mp4"
+        },
+        {
+            "id": "kl71bI8PhGU",
+            "name": "El Dos de Mayo - P\u00edo Estanislao Federico Chueca y Robres [Pasodoble] [kl71bI8PhGU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/El Dos de Mayo - P\u00edo Estanislao Federico Chueca y Robres [Pasodoble] [kl71bI8PhGU].mp4",
+            "size": 3.8852149999999996,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/El Dos de Mayo - P\u00edo Estanislao Federico Chueca y Robres [Pasodoble] [kl71bI8PhGU].mp4"
+        },
+        {
+            "id": "Is665CtmBUc",
+            "name": "Graham Central Station  -  The Jam [Is665CtmBUc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Graham Central Station  -  The Jam [Is665CtmBUc].mp4",
+            "size": 15.201855,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Graham Central Station  -  The Jam [Is665CtmBUc].mp4"
+        },
+        {
+            "id": "SfrL2XAo9Eo",
+            "name": "Magazine 60 ~ Don Quichotte 1984 Disco Purrfection Version [SfrL2XAo9Eo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Magazine 60 ~ Don Quichotte 1984 Disco Purrfection Version [SfrL2XAo9Eo].mp4",
+            "size": 36.746929,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Magazine 60 ~ Don Quichotte 1984 Disco Purrfection Version [SfrL2XAo9Eo].mp4"
+        },
+        {
+            "id": "yxhWDoULCLE",
+            "name": "Glazunov Grande Valse de Concert op.41 - Massimiliano Damerini piano [yxhWDoULCLE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Glazunov Grande Valse de Concert op.41 - Massimiliano Damerini piano [yxhWDoULCLE].mp4",
+            "size": 10.460785,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Glazunov Grande Valse de Concert op.41 - Massimiliano Damerini piano [yxhWDoULCLE].mp4"
+        },
+        {
+            "id": "tmq5JBpFf9w",
+            "name": "Gyorgy Cziffra - Liszt \uff02Grand Galop Chromatique\uff02 [tmq5JBpFf9w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Gyorgy Cziffra - Liszt \uff02Grand Galop Chromatique\uff02 [tmq5JBpFf9w].mp4",
+            "size": 8.145795999999999,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Gyorgy Cziffra - Liszt \uff02Grand Galop Chromatique\uff02 [tmq5JBpFf9w].mp4"
+        },
+        {
+            "id": "5nmJWE2TA0Q",
+            "name": "Bandolero \uff02Paris Latino\uff02 \uff5c Archive INA [5nmJWE2TA0Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Bandolero \uff02Paris Latino\uff02 \uff5c Archive INA [5nmJWE2TA0Q].mp4",
+            "size": 49.391617,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Bandolero \uff02Paris Latino\uff02 \uff5c Archive INA [5nmJWE2TA0Q].mp4"
+        },
+        {
+            "id": "ance (1971)",
+            "name": "Fela in performance (1971).mp4 [UwM-PKUVNf8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Fela in performance (1971).mp4 [UwM-PKUVNf8].mp4",
+            "size": 34.267389,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Fela in performance (1971).mp4 [UwM-PKUVNf8].mp4"
+        },
+        {
+            "id": "dnQqLnqKl4o",
+            "name": "Alfonso Ortiz Tirado. Tu lo Sabes [dnQqLnqKl4o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Alfonso Ortiz Tirado. Tu lo Sabes [dnQqLnqKl4o].mp4",
+            "size": 2.039808,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Alfonso Ortiz Tirado. Tu lo Sabes [dnQqLnqKl4o].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Schubert\uff1a 4 Impromptus, Op.90 (Zimerman) [bRjKo0QEIuI] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Schubert\uff1a 4 Impromptus, Op.90 (Zimerman) [bRjKo0QEIuI] - copy (1).mp4",
+            "size": 54.385276,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Schubert\uff1a 4 Impromptus, Op.90 (Zimerman) [bRjKo0QEIuI] - copy (1).mp4"
+        },
+        {
+            "id": "Yb-3C1zqLOg",
+            "name": "Pete Herbert & Dicky Trisco - Machine 16 (Paradise Row Vol. 1) [Yb-3C1zqLOg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Pete Herbert & Dicky Trisco - Machine 16 (Paradise Row Vol. 1) [Yb-3C1zqLOg].mp4",
+            "size": 10.623251,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Pete Herbert & Dicky Trisco - Machine 16 (Paradise Row Vol. 1) [Yb-3C1zqLOg].mp4"
+        },
+        {
+            "id": "-3cO4vgaytU",
+            "name": "Pixies.- The Boston Broadcast 1987 (full album) [-3cO4vgaytU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Pixies.- The Boston Broadcast 1987 (full album) [-3cO4vgaytU].mp4",
+            "size": 94.76229,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Pixies.- The Boston Broadcast 1987 (full album) [-3cO4vgaytU].mp4"
+        },
+        {
+            "id": "GI8ECgFEe_Y",
+            "name": "Django Reinhardt \uff02Mon Fr\u00e8re\uff02 Full Album - Face 2 [GI8ECgFEe_Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Django Reinhardt \uff02Mon Fr\u00e8re\uff02 Full Album - Face 2 [GI8ECgFEe_Y].mp4",
+            "size": 41.288646,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Django Reinhardt \uff02Mon Fr\u00e8re\uff02 Full Album - Face 2 [GI8ECgFEe_Y].mp4"
+        },
+        {
+            "id": "uAS2F3S3tns",
+            "name": "Franz Anton Dimmler - Clarinet Concerto in B-flat major [uAS2F3S3tns].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Franz Anton Dimmler - Clarinet Concerto in B-flat major [uAS2F3S3tns].mp4",
+            "size": 48.227864,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Franz Anton Dimmler - Clarinet Concerto in B-flat major [uAS2F3S3tns].mp4"
+        },
+        {
+            "id": "D0v0kuoFDp8",
+            "name": "Kraftwerk - Computer Love (1981) [D0v0kuoFDp8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Kraftwerk - Computer Love (1981) [D0v0kuoFDp8].mp4",
+            "size": 10.389021,
+            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Kraftwerk - Computer Love (1981) [D0v0kuoFDp8].mp4"
+        }
+    ],
+    "total_size": 904.7175209999998
 }

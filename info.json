@@ -93,13 +93,6 @@
             "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Intermezzo - Manuel Maria Ponce [1O4-RCjwal0].mp4"
         },
         {
-            "id": "1O4-RCjwal0",
-            "name": "Intermezzo - Manuel Maria Ponce-1O4-RCjwal0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a5/videos/Intermezzo - Manuel Maria Ponce-1O4-RCjwal0.mp4",
-            "size": 3.756805,
-            "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Intermezzo - Manuel Maria Ponce-1O4-RCjwal0.mp4"
-        },
-        {
             "id": "dH3GSrCmzC8",
             "name": "Bill Evans - Waltz For Debby [dH3GSrCmzC8].mp4",
             "path": "/home/alanmatzumiya/Videos/container/a5/videos/Bill Evans - Waltz For Debby [dH3GSrCmzC8].mp4",
@@ -212,5 +205,5 @@
             "url": "https://github.com/circuitalmynds/music_a5/raw/main/videos/Kraftwerk - Computer Love (1981) [D0v0kuoFDp8].mp4"
         }
     ],
-    "total_size": 904.7175209999998
+    "total_size": 900.9607159999998
 }
